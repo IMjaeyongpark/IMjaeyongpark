@@ -2,7 +2,7 @@
 <div align="center">
   
   <h1>Hi there 👋 I'm JaeYong</h1>
-  <p>백엔드 개발자 | Spring Boot · AWS · Docker · PostgreSQL</p>
+  <p>백엔드 개발자</p>
   
 </div>
 
