@@ -31,7 +31,7 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 
 **Etc.**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)&nbsp;
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white)&nbsp;
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?logo=junit5&logoColor=white)
