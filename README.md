@@ -63,15 +63,6 @@
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jaeyong36" />
 </a>
 
----
-
-## ✉️ Contact
-- Email: **jaeyong36.dev@gmail.com**
-- Blog/Notion: **[포트폴리오/정리 링크](#)**
-- LinkedIn: **[프로필 추가](#)**
-
----
-
 <!-- Fun: 깃허브 잔디 스네이크 (옵션) -->
 <!--
 ![snake gif](https://github.com/IMjaeyongpark/IMjaeyongpark/blob/output/github-contribution-grid-snake.svg)
