@@ -3,24 +3,12 @@
   
   <h1>Hi there 👋 I'm JaeYong</h1>
   <p>백엔드 개발자 | Spring Boot · AWS · Docker · PostgreSQL</p>
-
-  <!-- 뱃지들 -->
-  <a href="mailto:jaeyong36.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EB4335?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://solved.ac/jaeyong36"><img src="https://img.shields.io/badge/Solved.ac-1B1E2E?style=flat&logo=solvedac&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=IMjaeyongpark&style=flat&color=0A66C2" alt="view count"/>
   
 </div>
 
 ---
 
-## 🧭 About Me
-- 사용자 문제를 **백엔드 아키텍처**와 **클린 코드**로 풀어내는 걸 좋아합니다.
-- Spring Boot + JPA, RESTful API, 대용량 로그/캐시, **CI/CD 자동화**(Docker · Jenkins · AWS EC2)에 관심 많아요.
-- 최근엔 **React**로 회원가입/유효성 검증/중복확인 등 프런트 연동도 만들고 있습니다.
-
 ## 🔧 Tech Stack
-<!-- 필요없는 건 지워도 됨 -->
 **Backend**  
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)&nbsp;
@@ -45,21 +33,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)&nbsp;
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white)&nbsp;
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?logo=junit5&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-> 포트폴리오에서 보여주고 싶은 2~4개만 깔끔하게!
-- **AIChallenge** – Spring Boot + Docker + Jenkins + EC2 CI/CD 자동 배포  
-  JWT 인증, 게시판·댓글, 챗봇(LLM) 기반 학습 경로 추천  
-  Tech: Spring Boot, JPA, Redis, PostgreSQL, React  
-  👉 [Repo 링크](https://github.com/IMjaeyongpark) · [시연 영상/데모](#)
-
-- **Interview Helper** – 면접 질문 생성 & 학습 경로 추천 서비스  
-  LLM Prompt 엔지니어링, 서버 컨텍스트 관리(conversationId)  
-  👉 [Repo 링크](#)
-
-> 더 많은 프로젝트는 **[Pinned Repositories](https://github.com/IMjaeyongpark?tab=repositories)**에서 확인하세요!
 
 ---
 
